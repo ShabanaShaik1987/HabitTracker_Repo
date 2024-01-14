@@ -21,6 +21,7 @@ cd habit-tracker
 
 $ npm install
 $ nodemon index.js or npm start
+5. Open the application in your web browser by visiting the following URL: $ http://localhost:9000
 
 **Features:**
 
