@@ -10,7 +10,7 @@ Node , Express, Mongodb , EJS , javaScript , html, css
 
 **How to setup the project on local system**
 
-1. Clone this project
+1. Clone this project.Extract the folder on your desktop using extractall .
 
 2. Start by installing npm if you don't have it already.
 
