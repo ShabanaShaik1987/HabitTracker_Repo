@@ -15,7 +15,7 @@ Node , Express, Mongodb , EJS , javaScript , html, css
 2. Start by installing npm if you don't have it already.
 
 3. Navigate to Project Directory by : Using
-cd habit-tracker
+cd "Habit-Tracker-main/Habit-Tracker-main"
 
 4. After reaching to the this preoject directory yo have to run this following command :
 
